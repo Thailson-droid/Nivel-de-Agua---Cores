@@ -30,9 +30,6 @@ O programa é executado no terminal e solicita ao usuário um nível de água en
 - Python 3
 - Biblioteca Colorama
 
-## 📦 Instalação
 
-Verifique se o Python está instalado:
 
-```bash
-python --version
+
